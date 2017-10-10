@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/erkanylmz/erkan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+<title> hw4</title>
+</head>
+<body bgcolor="#00FFFF">
+<font color="red">HW4</font><br>
+<font color="red">ERKAN YILMAZ</font><br>
+<font color="red">161044044</font><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1><center><font color="green">ALAN TURNİNG KİMDİR</font> </h1>,
 
-### Markdown
+<p><center>Alan Mathison Turing, 23 Haziran 1912’de Londra’da dünyaya gelmiştir.
+ Britanya Hindistan koloni idaresinde Hindistan <br/>devlet memuru olarak çalışan bir babanın ikinci oğludur.<br/>
+ 6 yaşındayken okula gitmeye başlayan Turing, kısa sürede okulun başöğretmeni tarafından üstün zekâsıyla keşfedilir. 
+ 14 yaşındayken ünlü ve çok pahalı olan bir özel okula kayıt olur.<br/>
+ Okulun ilk günü ülkede genel grevin başlaması <br/>sebebiyle trenlerin işlemediği
+ bölgeye 60 milden fazla süren yolu bisikletle
+ gider ve okulunda derslere girmeye başlar.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+</p>
+<center>><img src="resim1.jpg">
+<p>Alan Turing henüz çok genç olmasına rağmen, hatta derslerinde henüz öğrenmemesine rağmen, <br/>
+matematiksel problemlerle ilgilenmiş, özellikle türev ve integral üzerine problemlere yönelmiştir.<br/>
+ Hatta 16 yaşındayken karşılaştığı Albert Einstein’ın çalışmalarını üzerine yoğunlaşmış ve Einstein’ın<br/>
+ Newton hareket teorilerini ve kanunlarını eleştirmelerini kendi çalışmalarıyla yeniden çıkarmıştır.<br/>
+ 
+Turing’in matematik alanına daha çok ilgi duyması üniversitede Cambridge Kings Kolej’e gitmesine sebep oldu.<br/>
+Üstün bir dereceyle diploma alan Turing, merkezi limit teoremi tezi ile kolejde akademik üye seçilmiştir. <br/>
+İleriki yıllarda Princeton Üniversitesi’nde de çalışan ve buradan "Felsefe Doktoru" unvanını alan Turing, <br/>
+daha sonra Cambridge’ye dönerek matematik ve kriptoloji alanında çalışmalarına devam eder.<br/>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+</p>
+<center><img src="resim2.jpg" width="400">
 
-- Bulleted
-- List
+<center><p>Kriptoloji alanında devletin çok gizli birimlerinde ve görevlerinde çalışan Alan Turing,<br/>
+7 Haziran 1954’te temizlikçisi tarafından evinde ölü bulunmuştur. Ölüm sebebinin yatağının kenarında<br/>
+bulunan siyanürlü elma sebebiyle zehirlenme olduğu açıklansa da devletin gizli birimlerinde çalıştığı<br/>
+için İngiliz istihbarat servisi tarafından öldürülüp intihar süsü verilmiş olabileceği iddialar arasındadır.<br/> 
+</p>
+<center><a href="ödev2.html"><img src="ileri.jpg" width="100"></a>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erkanylmz/erkan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+</html>
